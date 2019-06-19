@@ -13,6 +13,9 @@
 藉由資訊科學的初步探索，讓學生進一步理解運算思維之相關原理，以培養整合資訊科技與運算思維以有效解決問題之能力。
 [酷課學員網路學校](https://ono.tp.edu.tw/course/3043)
 ### Zerojudge範例
+[高中生程式解題系統](https://zerojudge.tw/)
+C CPP Java Pascal Python
+
 ### 資訊課範例
 
 ## Pyhton

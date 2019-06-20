@@ -25,6 +25,8 @@ Ideone is an online compiler and debugging tool which allows you to compile sour
 Now code anytime, anywhere 
 with the fastest mobile IDE.
 
+[Java in Visual Studio Code](https://code.visualstudio.com/docs/languages/java)
+
 ## Pyhton
 * Python 3.7
 * Google colab

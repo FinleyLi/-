@@ -14,11 +14,17 @@
 [酷課學員網路學校](https://ono.tp.edu.tw/course/3043)
 ### Zerojudge範例
 [高中生程式解題系統](https://zerojudge.tw/)
+
 C CPP Java Pascal Python
 ### 資訊課範例
 [Ideone.com](https://ideone.com/)
 
-[Dcoder | Next Gen Coding](https://dcoder.tech/)
+Ideone is an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
+
+[Dcoder | Next Gen Coding...](https://dcoder.tech/)
+
+Now code anytime, anywhere 
+with the fastest mobile IDE.
 
 ## Pyhton
 * Python 3.7

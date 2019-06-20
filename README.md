@@ -22,10 +22,10 @@ C CPP Java Pascal Python
 Ideone is an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 
 [Dcoder | Next Gen Coding...](https://dcoder.tech/)
-Now code anytime, anywhere 
-with the fastest mobile IDE.
+Now code anytime, anywhere with the fastest mobile IDE.
 
 [Java in Visual Studio Code](https://code.visualstudio.com/docs/languages/java)
+You can have a lightweight and performant code editor which also supports many popular Java development tools.
 
 ## Pyhton
 * Python 3.7

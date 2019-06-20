@@ -30,3 +30,19 @@ with the fastest mobile IDE.
 ## Pyhton
 * Python 3.7
 * Google colab
+
+# 測試用環境
+*[VMs](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)Test Microsoft Edge (EdgeHTML) and versions of IE8 through IE11 using free virtual machines you download and manage locally.
+*[Xubuntu](https://xubuntu.org/)Xubuntu is a community developed operating system that combines elegance and ease of use.
+*[Ubuntu 正體中文站](https://www.ubuntu-tw.org/)
+OSS Planet - Free Hosting
+國立暨南國際大學 計算機與網路中心
+暨南資訊管理學系
+元智資訊工程學系
+海大資訊工程學系
+veryWed 非常婚禮
+建國科技大學 電子計算機中心
+國家高速網路與計算中心
+台灣高品質學網中心
+台大物理學系
+台南縣資教中心

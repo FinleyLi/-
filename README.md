@@ -29,7 +29,7 @@ You can have a lightweight and performant code editor which also supports many p
 
 ## Pyhton
 * Python 3.7
-* Google colab
+* Google Colab
 
 # 測試用環境
 * [VMs](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)Test Microsoft Edge (EdgeHTML) and versions of IE8 through IE11 using free virtual machines you download and manage locally.

@@ -32,9 +32,9 @@ with the fastest mobile IDE.
 * Google colab
 
 # 測試用環境
-*[VMs](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)Test Microsoft Edge (EdgeHTML) and versions of IE8 through IE11 using free virtual machines you download and manage locally.
-*[Xubuntu](https://xubuntu.org/)Xubuntu is a community developed operating system that combines elegance and ease of use.
-*[Ubuntu 正體中文站](https://www.ubuntu-tw.org/)
+* [VMs](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)Test Microsoft Edge (EdgeHTML) and versions of IE8 through IE11 using free virtual machines you download and manage locally.
+* [Xubuntu](https://xubuntu.org/)Xubuntu is a community developed operating system that combines elegance and ease of use.
+* [Ubuntu 正體中文站](https://www.ubuntu-tw.org/)
 OSS Planet - Free Hosting
 國立暨南國際大學 計算機與網路中心
 暨南資訊管理學系

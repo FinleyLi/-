@@ -15,8 +15,9 @@
 ### Zerojudge範例
 [高中生程式解題系統](https://zerojudge.tw/)
 C CPP Java Pascal Python
-
 ### 資訊課範例
+[Ideone.com](https://ideone.com/)
+[Dcoder | Next Gen Coding](https://dcoder.tech/)
 
 ## Pyhton
 * Python 3.7

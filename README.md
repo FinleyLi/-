@@ -36,5 +36,5 @@ You can have a lightweight and performant code editor which also supports many p
 
 # 測試用環境
 * [VMs](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)Test Microsoft Edge (EdgeHTML) and versions of IE8 through IE11 using free virtual machines you download and manage locally.
-* [Xubuntu](https://xubuntu.org/)Xubuntu is a community developed operating system that combines elegance and ease of use.
+* [Xubuntu](https://xubuntu.org/)Xubuntu is an elegant and easy to use operating system. Xubuntu comes with Xfce, which is a stable, light and configurable desktop environment.
 * [Ubuntu 正體中文站](https://www.ubuntu-tw.org/)Ubunbu 預設以 GNOME 桌面環境為基礎，並且將常用的開放源碼軟體包裝其中，而且經由 Canonical 公司團隊的用心開發，除了整體畫面設計美觀一致，軟體維護也十分迅速且紮實，使得它成為一套適合剛接觸 Linux 作業系統的尋常人使用的 Linux 套件。

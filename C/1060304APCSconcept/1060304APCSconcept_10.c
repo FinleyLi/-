@@ -13,13 +13,14 @@ int Finley(){
 }
 
 int n = 0;
-// no Return value
 int K (int b) {
     n = n + 1;
     if (b % 4)
         K(b+1);
     return n;
 }
+
+// no Return value
 void G (int m) {
     for (int i=0; i<m; i=i+1) {
         printf("K(%d) = %d\n", i, K(i));

@@ -1,0 +1,29 @@
+/**********************************************************************************
+ *  Problem: 2017/03/04 "Sconcept 11" from APCS                                      
+ *  Language: C                                                                                                   
+ *  Author: Finley at 2019-10-22 23:00                                      
+ **********************************************************************************/
+
+#include <stdio.h>
+
+// Return value
+int fcn() {
+    int arr[] = { 0, 1, 2, 3, 4 };
+    arr[3] = arr[2];
+    arr[2] = arr[1];
+    arr[1] = arr[3];
+    printf("After: arr[1] = %d\n", arr[1]);
+    printf("After: arr[2] = %d\n", arr[2]);
+
+    return 0;
+}
+
+// no Return value
+void Finley(int m) {
+    // -->code goes here<--
+}
+
+int main(void)
+{
+    fcn();
+}

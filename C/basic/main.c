@@ -1,11 +1,9 @@
-/******************************************************************************
+/**********************************************************************************
+ *  Problem: 2017/03/04 "Sconcept 10" from APCS                                      
+ *  Language: C                                                                                                   
+ *  Author: Finley at 2019-10-22 16:42                                      
+ **********************************************************************************/
 
-1060304APCSconcept_03
-
-Thanks, GDB online is an online compiler and debugger tool...
-Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
 #include <stdio.h>
 
 // Return value

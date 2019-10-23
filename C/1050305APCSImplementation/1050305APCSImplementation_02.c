@@ -1,7 +1,6 @@
 //
 //  main.c
-//  Problem: 1050305APCSImplementation_02
-//  Author: Finley
+//  1050305APCSImplementation_02
 //
 //  Created by Finley on 2019/10/23.
 //  Copyright © 2019 Finley. All rights reserved.
@@ -52,7 +51,7 @@ void mirror() {
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    int input1[3]; 
+    int input1[3];
     
     // 第一列輸入參數
     printf( "依序輸入 Row, Column, Motion\n");
@@ -63,7 +62,6 @@ int main(int argc, const char * argv[]) {
     C = input1[1];
     M = input1[2];
     int input2[M];
-    //printf("Row = %d, Column = %d, Motion = %d\n", R, C, M);
     
     // 第二列輸入陣列值
     for( int i=0; i<R; i++) {
@@ -72,25 +70,14 @@ int main(int argc, const char * argv[]) {
         }
     }
     
-    // 測試輸入資料 delete
-    for( int i=0; i<R; i++) {
-        for( int j=0; j<C; j++) {
-            printf( "before Motion[%d][%d] = %d  ", i, j, orig[i][j]);
-        }
-        printf( "\n");
-    }
-    
     // 第三列輸入M次0旋轉1翻轉
     for( int i=0; i<M; i++) {
         scanf( "%d", &input2[i]);
     }
     //執行旋轉或翻轉
     for( int i=0; i<M; i++) {
-        if (input2[i] == 0){
-            rotate();
-        } else{
-            mirror();
-        }
+        if (input2[i] == 0) rotate();
+        else mirror();
     }
     
     printf("Row=%d, Column=%d\n", R, C);

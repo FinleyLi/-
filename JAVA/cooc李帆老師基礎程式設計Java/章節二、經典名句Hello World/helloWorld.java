@@ -13,6 +13,7 @@ public class helloWorld {
 	/*public helloWorld(){
 		System.out.print("hello, world");
 	}*/
+	// static變數就是在載入程式後會主動配給記憶體給程式(僅一次)，後續無論實例化多少次，記憶體位置都一樣。
 	private static void say(String s) {
 		System.out.print("hello, world");
 	}

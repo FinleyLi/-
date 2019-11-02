@@ -8,47 +8,65 @@ package coocJava;
  * Author: Finley@ms.tsh.ttu.edu.tw
  * */
 
-class Hello{
-    private String name;
+class sayB{
+	String BB;
+	String get(){
+	    System.out.println("Hello, "+BB);
+		return BB;
+	}
+	void put(String w){   //put 函數，用來設定
+        BB = w;
+	}
+}
 
-    public Hello(){
-        name = "nobody";
+class sayC{
+     public sayC(){
+        System.out.print("Hello, ");
     }
-
-    public Hello(String one){
-        name = one;
-    }
-
-    public void hello(){
-        System.out.print("Hello ");
-        System.out.println(name);
-    }
-
-    public void setName(String one){
-        name = one;
+    public sayC(String CC){
+        this(); // 呼叫同一類別內class sayC的其他建構式Constructor。
+        System.out.println(CC);
     }
 }
 
-public class Main
+class sayD{
+    public sayD(){
+        System.out.println("Hello, D");
+    }
+    public sayD(int n,double gas){
+        this(); // 呼叫同一類別內的其他建構式。
+        System.out.println("Hi, Siri");
+    }
+}
+class ShowMe extends sayD{ //繼承sayD
+    public ShowMe(){
+        super(); // 從子類別class ShowMe呼叫其父類別class sayD的建構式。
+    }
+}
+
+public class helloWorld
 {
-
-	// static變數就是在載入程式後會主動配給記憶體給程式(僅一次)，後續無論實例化多少次，記憶體位置都一樣。
-	private static void say(String s) {
-		System.out.println(s);
-	}
-
+    
+    public static void sayA(String word) {
+        System.out.println("Hello, "+ word);
+    }
+    
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		say("hello, world");
-        
-        // 指定引數建立 hello 實例
-        Hello hello = new Hello("Java");
-        // 呼叫 hello()方法
-        hello.hello();
- 
-        // 呼叫 setName()改變 name 的參考對象
-        hello.setName("caterpillar");
-        hello.hello();
+		System.out.println("Hello original World");
+		
+		// 指定引數呼叫sayA方法Method
+		sayA("A");
+		
+		// 無引數建立(實體化) hello A實例
+		sayB helloB = new sayB();
+		// 呼叫 put()方法並改變BB字串內容
+		helloB.put("B");
+		// 呼叫 get()方法列印結果
+		helloB.get();
+		
+		// 指定引數建立(實體化) hello C實例
+		sayC helloC = new sayC("C");
+		
+		ShowMe helloD = new ShowMe();
 	}
-
 }

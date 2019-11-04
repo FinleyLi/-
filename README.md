@@ -2,7 +2,8 @@
 
 ## C#
 文字介面與視窗介面範例對照
-
+## C
+放置於Github關於APCS觀念題的程式碼示範 
 ## Java
 ### APCS
 [APCS大學程式先修檢測](https://apcs.csie.ntnu.edu.tw/)

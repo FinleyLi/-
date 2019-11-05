@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class MyFirstJavaProgram {
 
    /* This is my first java program.

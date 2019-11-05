@@ -10,18 +10,20 @@ public class MyFirstJavaProgram {
 	// 引數String[] args為程式使用者在命令列狀態下與程式互動。
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		if (args.length == 0) {
-			System.out.println("無引數..");
+		/*if (args.length == 0) {
+		System.out.println("無引數..");
 		}
 
-		else {
-			System.out.println("顯示命令列引數..");
-			for (String arg : args) {
-				System.out.println(arg);
-			}
+		else {*/
+		Scanner Input = new Scanner(System.in);
+		int N = Input.nextInt();
+		System.out.println("顯示命令列引數.."+N);
+		/*for (String arg : args) {
+		System.out.println(arg);
+		}g
 
-			System.out.println("args[0]" + args[0]);
-			System.out.println("args[1]" + args[1]);
-		}
+		System.out.println("args[0]" + args[0]);
+		System.out.println("args[1]" + args[1]);
+		}*/
 	}
 }

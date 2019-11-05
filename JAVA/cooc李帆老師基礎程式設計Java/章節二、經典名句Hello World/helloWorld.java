@@ -47,9 +47,9 @@ class ShowMe extends sayD{ //繼承sayD
 public class helloWorld
 {
     
-    public static void sayA(String word) {
-        System.out.println("Hello, "+ word);
-    }
+	public static void sayA(String word) {
+		System.out.println("Hello, "+ word);
+	}
     
 	public static void main(String[] args) {
 		System.out.println("Hello original World");

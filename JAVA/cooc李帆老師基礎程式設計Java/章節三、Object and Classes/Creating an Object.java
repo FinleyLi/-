@@ -1,6 +1,6 @@
-class sayC{
-     public sayC(){
-        System.out.print("Hello, ??");
+class sayHello{
+     public sayHello(){
+        System.out.print("hello World");
     }
 }
 
@@ -24,7 +24,7 @@ public class CreatingAnObject {
 		// Puppy myPuppy = new Puppy( "Tommy" );
 		
 		// 指定引數建立(實體化) hello C實例
-		//sayC helloC = new sayC();
+		//Hello World = new sayHello();
 
 	}
 

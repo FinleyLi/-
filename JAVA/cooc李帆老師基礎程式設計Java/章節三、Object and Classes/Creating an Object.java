@@ -24,7 +24,7 @@ public class CreatingAnObject {
 		// Puppy myPuppy = new Puppy( "Tommy" );
 		
 		// 指定引數建立(實體化) hello C實例
-		//Hello World = new sayHello();
+		//sayHello World = new sayHello();
 
 	}
 

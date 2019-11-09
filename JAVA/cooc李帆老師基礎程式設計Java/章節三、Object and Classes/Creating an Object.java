@@ -1,3 +1,5 @@
+//Compiler version JDK 11.0.2
+
 class sayHello{ //駱駝式命名法
      public sayHello(){
         System.out.print("hello World");
@@ -11,6 +13,10 @@ public class CreatingAnObject { //public 修飾符
 	      // This constructor has one parameter, name.
 	      System.out.println("Passed Name is: " + name );
 	}
+  
+    public static void sayA(String word) {
+		System.out.println("Hello, "+ word);
+	}
 	
 	public static void main(String[] args) { //void 返回類型保留字
 		// TODO Auto-generated method stub
@@ -18,7 +24,7 @@ public class CreatingAnObject { //public 修飾符
 		CreatingAnObject myPuppy = new CreatingAnObject( "Tommy" );
 		
 		/* Call Method CreatingAnObject */
-		//CreatingAnObject( "Tommy" );
+		sayA( "Tommy" );
 		
 		/* Object creation */
 		// Puppy myPuppy = new Puppy( "Tommy" );

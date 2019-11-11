@@ -14,7 +14,7 @@ public class CreatingAnObject { //public 修飾符
 	      System.out.println("Passed Name is: " + name );
 	}
   
-    public static void sayA(String word) {
+        public static void sayA(String word) {
 		System.out.println("Hello, "+ word);
 	}
 	

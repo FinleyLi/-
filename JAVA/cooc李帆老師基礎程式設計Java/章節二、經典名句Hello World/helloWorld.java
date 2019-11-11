@@ -20,6 +20,7 @@ class sayB{
 }
 
 class sayC{
+     //定義多個建構式，只要參數型態或個數不同，這稱之為重載（Overload）建構式。
      public sayC(){
         System.out.print("Hello, ");
     }

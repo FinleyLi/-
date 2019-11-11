@@ -9,8 +9,8 @@ class sayHello{ //駱駝式命名法
 public class CreatingAnObject { //public 修飾符
 	
 	public  CreatingAnObject(String name) {
-	        // This constructor has one parameter, name.
-	        // 在定義類別時，可以使用建構式定義物件建立的初始流程。建構式是與類別名稱同名，無需宣告傳回型態的方法。
+        	// This constructor has one parameter, name.
+        	// 在定義類別時，可以使用建構式定義物件建立的初始流程。建構式是與類別名稱同名，無需宣告傳回型態的方法。
 		System.out.println("Passed Name is: " + name );
 	}
   

@@ -5,7 +5,7 @@
 public class Elephant extends Animal{
 	
 	
-	String name="";
+	String name = "";
 	
 	void speak() {
     	System.out.println("age: " + age);
@@ -13,9 +13,9 @@ public class Elephant extends Animal{
     	System.out.println("name:" + name);    	
 	} 
 	
-	Elephant( int age, float weight ,String name){
-		super(age,weight);
-		this.name=name;
+	Elephant( int age, float weight, String name){
+		super(age, weight);
+		this.name = name;
 	}
 
 }

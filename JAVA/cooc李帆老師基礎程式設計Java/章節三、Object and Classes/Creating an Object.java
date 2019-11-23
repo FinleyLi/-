@@ -29,7 +29,7 @@ public class CreatingAnObject { //public 修飾符
 		//sayA( "Tommy" );
 		
 		/* Object creation */
-		// 指定引數建立(實體化) hello C實例
+		//指定引數建立(實體化) hello C實例
 		//sayHello World = new sayHello();
 
 	}

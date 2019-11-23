@@ -32,8 +32,8 @@ public class CreatingAnObject { //public 修飾符
 		// TODO Auto-generated method stub
 		System.out.print("hello World");
 		
-		/* Following statement would create an object myPuppy */
-		//CreatingAnObject myPuppy = new CreatingAnObject( "Tommy" );
+		/* Following statement would create an object sayName */
+		//CreatingAnObject sayName = new CreatingAnObject( "Tommy" );
 		
 		/* Call Method CreatingAnObject */
 		//sayA( "Tommy" );

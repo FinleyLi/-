@@ -11,9 +11,9 @@ import java.util.*;
  * */
 
 class sayHello{ //駱駝式命名法
-     public sayHello(){
-        System.out.print("hello World");
-    }
+        public sayHello(){
+                System.out.print("hello World");
+       }
 }
 
 public class CreatingAnObject { //public 修飾符

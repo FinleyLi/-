@@ -1,4 +1,14 @@
+package coocJava;
+import java.util.*;
+
 //Compiler version JDK 11.0.2
+/*
+ * 章節三 Object and Class
+ * Problem: Creating an Object Puppy
+ * Input: Null
+ * Output: Passed Name is tommy
+ * Author: Finley@ms.tsh.ttu.edu.tw
+ * */
 
 class sayHello{ //駱駝式命名法
      public sayHello(){

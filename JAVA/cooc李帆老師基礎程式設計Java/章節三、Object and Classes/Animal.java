@@ -1,4 +1,4 @@
-// jerryªº¦¨¯«¤§¸ô
+// 多型練習
 // https://dotblogs.com.tw/jerryhuang0306/2016/01/26/194642
 
 public class Animal {
